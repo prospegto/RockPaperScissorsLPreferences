@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PPTconPreferencias</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="partidasPerdidasD">0</string>
+    <string name="partidasPerdidas">0</string>
+    
+
+</resources>
